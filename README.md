@@ -1,4 +1,4 @@
-# reddit-place-kcorp
+# rplace-filmisnotdead
 original authors :
 oralekin, LittleEndu, ekgame, Wieku, DeadRote
 
