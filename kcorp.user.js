@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         Reddit Place - Armée de Kameto
+// @name         R/Place - Film Is Not Dead
 // @namespace    http://tampermonkey.net/
-// @version      0.4
-// @description  On va récuperer ce qui nous est du de droit.
-// @author       Adcoss95
+// @version      0.1
+// @description  Film Is Not Dead
+// @author       Damien Trolard - Le Blog Argentique /// Initial code by Adcoss95
 // @match        https://hot-potato.reddit.com/embed*
-// @icon         https://styles.redditmedia.com/t5_4eiiz1/styles/communityIcon_ojy24r8j90o81.jpg
+// @icon         https://leblogargentique.com/wp-content/uploads/2022/01/Logo.png
 // @grant        none
 // ==/UserScript==
 if (window.top !== window.self) {
